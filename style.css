@@ -27,7 +27,16 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
- 
+ .layout-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+
+
 .button{
   width: 66px;
   padding: 20px;
@@ -129,6 +138,7 @@ footer {
     }
 .text-center{
   text-align: center;
+  text-decoration: overline, underline, line-through;
 }
 
 .bg-red{
@@ -148,4 +158,17 @@ footer {
 
 .items-center{
   align-items: center;
+}
+
+.row {
+  margin: 8px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.row input {
+  width: 100%;
+  max-width: 291px;
 }
