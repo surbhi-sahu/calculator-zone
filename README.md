@@ -37,7 +37,7 @@ Although it’s simple, this project is **very close to my heart** — it was my
 
 ## 📷 Screenshot
 
-> *(Insert a screenshot image here if you have one — use drag & drop on GitHub or link an image)*
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/4fc7d2f1-f165-41fa-8a8c-2c031737d75c" />
 
 ---
 
